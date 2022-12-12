@@ -1,6 +1,7 @@
 # © @AravindXD
 
 from config import *
+from pyrogram import *
 
 ALONE = Client(":memory:",
               api_id=API_ID,
